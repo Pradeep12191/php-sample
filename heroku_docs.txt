@@ -1,0 +1,2 @@
+install heroku command line tool - deploy app, create app, open app from the terminal
+download - http://toolbelt.heroku.com/
